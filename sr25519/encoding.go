@@ -2,7 +2,7 @@ package sr25519
 
 import (
 	"github.com/mihongtech/crypto"
-	tmjson "github.com/tendermint/tendermint/libs/json"
+	tmjson "github.com/mihongtech/tendermint/libs/json"
 )
 
 var _ crypto.PrivKey = PrivKey{}

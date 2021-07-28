@@ -15,7 +15,7 @@ import (
 
 	"github.com/mihongtech/crypto"
 	"github.com/mihongtech/crypto/tmhash"
-	tmjson "github.com/tendermint/tendermint/libs/json"
+	tmjson "github.com/mihongtech/tendermint/libs/json"
 )
 
 //-------------------------------------

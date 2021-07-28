@@ -6,8 +6,8 @@ import (
 	"github.com/mihongtech/crypto"
 	"github.com/mihongtech/crypto/ed25519"
 	"github.com/mihongtech/crypto/secp256k1"
-	"github.com/tendermint/tendermint/libs/json"
-	pc "github.com/tendermint/tendermint/proto/tendermint/crypto"
+	"github.com/mihongtech/tendermint/libs/json"
+	pc "github.com/mihongtech/tendermint/proto/tendermint/crypto"
 )
 
 func init() {
